@@ -4,4 +4,12 @@ It's an application that provide for students some documents to improve their co
 
 ## Screenshots of the App
 
-![1](https://github.com/AyachiYassine/Biblio_App/assets/111986504/7c608796-f3ec-45f9-9a88-094d510b71ea)     ![2](https://github.com/AyachiYassine/Biblio_App/assets/111986504/f411dbec-c5ce-41d8-b24a-ec447e453f0d)     ![3](https://github.com/AyachiYassine/Biblio_App/assets/111986504/e40a3296-8123-4b43-a4e7-0b4cd80d7757)     ![4](https://github.com/AyachiYassine/Biblio_App/assets/111986504/a37bbe53-9fae-4a9b-8bb6-6276f0f0ab39)     ![5](https://github.com/AyachiYassine/Biblio_App/assets/111986504/6745e865-6f78-4eb2-8872-a0e72fec8d60)     ![6](https://github.com/AyachiYassine/Biblio_App/assets/111986504/447199d1-0cbe-4115-bd87-471c096f9189)     ![7](https://github.com/AyachiYassine/Biblio_App/assets/111986504/203337eb-eba2-422f-8e13-8981bb4b658e)     ![8](https://github.com/AyachiYassine/Biblio_App/assets/111986504/bfd16f39-abd1-4131-8581-154502b98ff5)     ![9](https://github.com/AyachiYassine/Biblio_App/assets/111986504/0080f9fe-1bb1-47fa-b14d-73f4485bd711)
+![1](https://github.com/AyachiYassine/Biblio_App/assets/111986504/ac8e550f-ade4-4c9a-9298-6a6d29f967fa)
+![2](https://github.com/AyachiYassine/Biblio_App/assets/111986504/bb15b924-c179-4168-b9bf-99e124517c95)
+![3](https://github.com/AyachiYassine/Biblio_App/assets/111986504/c9413dbe-c99a-4606-9ba8-03d6da130fc2)
+![4](https://github.com/AyachiYassine/Biblio_App/assets/111986504/c48ecd01-2131-40a7-8f96-0d1906c43317)
+![5](https://github.com/AyachiYassine/Biblio_App/assets/111986504/ae952169-f3f8-411c-a3b4-0bd4ca77ea77)
+![6](https://github.com/AyachiYassine/Biblio_App/assets/111986504/800b4230-e46f-4dc7-8dff-5c1f1de5483d)
+![7](https://github.com/AyachiYassine/Biblio_App/assets/111986504/2d0cb8b5-c9d9-4136-bde2-90639a9fda98)
+![8](https://github.com/AyachiYassine/Biblio_App/assets/111986504/6f54ea43-5827-40bd-bb7a-e11ab3a770a8)
+![9](https://github.com/AyachiYassine/Biblio_App/assets/111986504/8a1525bc-eb89-4148-afef-694016196d53)
